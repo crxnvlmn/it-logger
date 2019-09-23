@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on ws00",
+      "message": "[005] network issue",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Anne Apple"
+      "tech": "John Doe",
+      "date": "2019-09-23T17:21:21.686Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "ws07 err",
+      "message": "[002] hardware failure",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "Ben Banana"
+      "tech": "Sam Smith",
+      "date": "2019-09-23T17:21:36.205Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "reinstantiate mem on ws04",
+      "message": "[042] it is life",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Chad Cherry"
+      "tech": "Sara Wilson",
+      "date": "2019-09-23T17:21:53.807Z",
+      "id": 3
     }
   ],
   "techs": [
