@@ -1,18 +1,18 @@
 {
   "logs": [
     {
-      "message": "[005] network issue",
+      "id": 1,
+      "message": "[005] network issue (fixed)",
       "attention": false,
       "tech": "John Doe",
-      "date": "2019-09-23T17:21:21.686Z",
-      "id": 1
+      "date": "2019-09-24T12:29:16.872Z"
     },
     {
-      "message": "[002] hardware failure",
-      "attention": true,
+      "id": 2,
+      "message": "[002] hardware failure minorly",
+      "attention": false,
       "tech": "Sam Smith",
-      "date": "2019-09-23T17:21:36.205Z",
-      "id": 2
+      "date": "2019-09-24T12:29:24.392Z"
     }
   ],
   "techs": [
