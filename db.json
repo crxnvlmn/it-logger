@@ -35,6 +35,16 @@
       "firstName": "Dan",
       "lastName": "Date",
       "id": 4
+    },
+    {
+      "firstName": "Ed",
+      "lastName": "Entawak",
+      "id": 5
+    },
+    {
+      "firstName": "Fergus",
+      "lastName": "Fig",
+      "id": 6
     }
   ]
 }
